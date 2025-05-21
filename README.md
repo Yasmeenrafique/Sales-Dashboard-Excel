@@ -27,15 +27,13 @@ This dashboard provides a visual summary of sales data, enabling quick analysis 
 | File | Description |
 |------|-------------|
 | `Sales_Performance_Dashboard_Yasmeen.xlsx` | Main Excel file with interactive dashboard |
-| `screenshots/`  containing preview images 
+| `screenshots/`  containing preview images |
 
 ---
 
-## 📷 Screenshots
-
 ### 💻 Full Dashboard View  
-![Dashboard View](<img width="905" alt="dashboard project one" src="https://github.com/user-attachments/assets/8073ecb8-bc53-4f47-acfa-7372de90c5b1" />
-)
+![Dashboard View]<img width="905" alt="dashboard project one" src="https://github.com/user-attachments/assets/8073ecb8-bc53-4f47-acfa-7372de90c5b1" />
+
 ---
 
 ## 💡 What I Learned
