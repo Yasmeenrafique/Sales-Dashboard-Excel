@@ -34,14 +34,8 @@ This dashboard provides a visual summary of sales data, enabling quick analysis 
 ## 📷 Screenshots
 
 ### 💻 Full Dashboard View  
-![Dashboard View](screenshots/dashboard-view.png)
-
-### 🎯 Top 5 Products by Sales  
-![Top Products](screenshots/top-products-chart.png)
-
-### 🎛 Slicers for Region & Salesperson  
-![Slicers](screenshots/slicers-demo.png)
-
+![Dashboard View](<img width="905" alt="dashboard project one" src="https://github.com/user-attachments/assets/8073ecb8-bc53-4f47-acfa-7372de90c5b1" />
+)
 ---
 
 ## 💡 What I Learned
